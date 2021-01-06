@@ -25,7 +25,6 @@ Python, Java, C++, C <br>
 MySQL <br>
 <br>
 
-**Actively searching for Internships for the roles of Software Engineer, Data Analyst, Data Engineer, ML Engineer**.
 
 ### Contact
 **Drop me a mail for the formal purposes.**<br>

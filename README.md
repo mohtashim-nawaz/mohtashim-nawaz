@@ -6,6 +6,9 @@
 **Indian Institute of Information Technology, Allahabad** <br>
 **B.Tech(Information Technology), MBA Dual Degree (Expected 2022)**
 
+### Work
+**Upcoming Summer Intern at Samsung Research Institute, Bangalore.**
+
 ### What Amuses Me?
 **“It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.”**<br>
 In the 21st century where we have a lot of data, why not to utilize it to make intelligent decisions, as quoted above by Sherlock Holmes. Moreover, intelligent machines are the dream of humans, I want to contribute my part to it.
@@ -27,8 +30,6 @@ MySQL <br>
 Tableau, Jupyter Notebook, Excel<br>
 I learn things as needed!
 <br>
-
-**Upcoming summer intern.**
 <br>
 
 ### Contact

@@ -7,7 +7,7 @@
 **B.Tech(Information Technology), MBA Dual Degree (Expected 2022)**
 
 ### Work
-**Student Trainee at Samsung Research Institute, Bangalore.**
+**Former Student Trainee at Samsung Research Institute, Bangalore.**
 
 ### What Amuses Me?
 **“It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.”**<br>

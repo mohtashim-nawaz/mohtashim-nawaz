@@ -12,7 +12,7 @@
 **Upcoming SDE at Samsung Research Institute Bangalore.**
 
 ### Work<br>
-Written a conference paper accepted at **ICCCMLA 2020** Find it [here](https://link.springer.com/chapter/10.1007/978-3-030-68291-0_14).<br>
+Written a conference paper accepted at **ICCCMLA 2020.** Find it [here](https://link.springer.com/chapter/10.1007/978-3-030-68291-0_14).<br>
 Dozens of projects that can be found in repositories. 
 
 ### What Do I know?<br>

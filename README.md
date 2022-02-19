@@ -22,7 +22,7 @@ Machine Learning Libraries. <br>
 Android Studio <br>
 Python, Java, C++, C <br>
 MySQL <br>
-Tableau, Jupyter Notebook, Excel<br>
+I can work with Tableau, Jupyter Notebook, Excel<br>
 <br>
 <br>
 

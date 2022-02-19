@@ -33,5 +33,5 @@ I can work with Tableau, Jupyter Notebook, Excel<br>
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-mohd--mohtashim--nawaz-blue)](https://www.linkedin.com/in/mohd-mohtashim-nawaz-423812148/)<br>
 **Visit my Kaggle Profile:**<br>
 [![linkedin badge](https://img.shields.io/badge/Kaggle-mohtashimnawaz-blue)](https://www.kaggle.com/mohtashimnawaz)<br>
-**Portfolio**
+**Portfolio** <br>
 [![linkedin badge](https://img.shields.io/badge/Mohtashim%20Nawaz-Portfolio-brightgreen)](https://itm2017005.wixsite.com/mmnawaz)

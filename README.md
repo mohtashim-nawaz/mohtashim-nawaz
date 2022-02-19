@@ -8,7 +8,7 @@
 **B.Tech(Information Technology), MBA (Expected 2022)**
 
 ### Experience
-**Former Student Trainee at Samsung Research Institute, Bangalore.**
+**Former Student Trainee at Samsung Research Institute, Bangalore.** <br>
 **Upcoming SDE at Samsung Research Institute Bangalore.**
 
 ### Work<br>
@@ -16,8 +16,8 @@ Written a conference paper accepted at **ICCCMLA 2020.** Find it [here](https://
 Dozens of projects that can be found in repositories. 
 
 ### What Do I know?<br>
-Software Engineering, Networks
-DSA
+Software Engineering, Networks <br>
+DSA <br>
 Machine Learning Libraries. <br>
 Android Studio <br>
 Python, Java, C++, C <br>

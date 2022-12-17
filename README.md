@@ -9,7 +9,7 @@
 
 ### Experience
 **Former Student Trainee at Samsung Research Institute, Bangalore.** <br>
-**Upcoming SDE at Samsung Research Institute Bangalore.**
+**SDE at Samsung Research Institute Bangalore.**
 
 ### Work<br>
 Written a conference paper accepted at **ICCCMLA 2020.** Find it [here](https://link.springer.com/chapter/10.1007/978-3-030-68291-0_14).<br>
